@@ -9,6 +9,6 @@ spec:
       - name: podinfod
         env:
         - name: PODINFO_UI_COLOR
-          value: '#6c757d'
+          value: '#007bff'
         - name: PODINFO_UI_MESSAGE
-          value: 'greetings from runtime1'
+          value: 'greetings from workload2'
